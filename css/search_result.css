@@ -1,0 +1,13 @@
+th, td {
+    padding: 2px 15px 2px 15px;
+    cursor: pointer;
+    color: #2DA7A1;
+  }
+  
+  th:hover, td:hover {
+    color: #1b6b67;
+  }
+  
+  th {
+    font-style: italic;
+  }
