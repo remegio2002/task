@@ -26,59 +26,6 @@
                         <li><a class="subitem" onclick="content('techub_admin/How-to-Login.html')" href="#">How to Login</a></li>
                     </ul>
                 </li>
-                
-                <!-- Default Screen -->
-                <li>
-                    <a class="item" onclick="content('techub_admin/Default-Screen.html')" href="#">Default Screen</a>
-                </li>
-
-                <!-- TecHub Module -->
-                <li>
-                    <a class="item" onclick="content('techub_admin/TecHub-Module.html')" href="#">TecHub Module</a>
-                </li>
-
-                <!-- Home -->
-                <li>
-                    <a class="item online-help-tab2-btn" onclick="content('techub_admin/Home.html')" href="#">Home<span class="fas fa-caret-down second"></span></a>
-
-                    <ul class="online-help-tab2-subitem">
-                        <li><a class="subitem" onclick="content('techub_admin/Add-Technology.html')" href="#">How to Add Technology</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/Upload-Excel.html')" href="#">How to Upload Excel</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/List-of-Technologies-Produced.html')" href="#">How to View all the List of Technologies Produced</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/Technology-filtered-by-Category.html')" href="#">How to View Technology filtered by Category</a></li>
-                    </ul>
-                </li>
-
-                <!-- About -->
-                <li>
-                    <a class="item online-help-tab3-btn" onclick="content('techub_admin/About_tab.html')" href="#">About<span class="fas fa-caret-down third"></span></a>
-
-                    <ul class="online-help-tab3-subitem">
-                        <li><a class="subitem" onclick="content('techub_admin/About.html')" href="#">How to View Information About the System</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/How-the-System-Works.html')" href="#">How to View on How the System Works</a></li>
-                    </ul>
-                </li>
-
-                <!-- Services -->
-                <li>
-                    <a class="item online-help-tab4-btn" onclick="content('techub_admin/Services.html')" href="#">Services<span class="fas fa-caret-down fourth"></span></a>
-
-                    <ul class="online-help-tab4-subitem">
-                        <li><a class="subitem" onclick="content('techub_admin/List-of-Technology-Transfer-Commercialization-Program.html')" href="#">How to View List of Technology Transfer & Commercialization Program</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/List-of-Scientific-and-Technical-Services.html')" href="#">How to View List of Scientific & Technical Services</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/List-of-S-and-T-Information-Dissemination.html')" href="#">How to View List of S&T Information Dissemination</a></li>
-                    </ul>
-                </li>
-
-                <!-- User -->
-                <li>
-                    <a class="item online-help-tab5-btn" onclick="content('techub_admin/User.html')" href="#">User<span class="fas fa-caret-down fifth"></span></a>
-
-                    <ul class="online-help-tab5-subitem">
-                        <li><a class="subitem" onclick="content('techub_admin/User-Database.html')" href="#">How to View List of User Database</a></li>
-                        <li><a class="subitem" onclick="content('techub_admin/Logout.html')" href="#">How to Logout</a></li>
-                    </ul>
-                </li>
 
                 <li style="padding-top: 25px; background-color: white;"></li>
                 
