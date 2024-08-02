@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
     <!-- <link rel="stylesheet" href="css/Default-Screen.css?v=<?php echo time(); ?>"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <script src="jquery-3.7.1.min.js"></script>
     
     <link rel="icon" type="image/x-icon" href="img_asset/dost_logo.png">
     <title>ISSP Online Help</title>
