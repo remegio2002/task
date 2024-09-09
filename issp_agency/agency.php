@@ -71,4 +71,4 @@
     </div>
 </div>
 
-<script src="js/user.js"></script>
+<script src="js/agency.js"></script>

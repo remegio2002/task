@@ -18,11 +18,11 @@
     <div class="topbar">
 
       <div>
-        <img src="img_asset/dost_logo.png" alt="">            
+        <img src="img_asset/dost_logo.png" alt="">
       </div>
 
       <div class="banner">
-        <h1></h1>
+        <h1>ISSP Integrated System</h1>
       </div>
       
     </div>
@@ -32,8 +32,8 @@
         include_once('issp_admin/admin.php');
       }
 
-      else if ($_GET['param']==('user')){
-        include_once('issp_user/user.php');
+      else if ($_GET['param']==('agency')){
+        include_once('issp_agency/agency.php');
       }
 
       else{

@@ -20,10 +20,10 @@
 
                 <!-- Login -->
                 <li>
-                    <a class="item online-help-tab1-btn" onclick="content('techub_admin/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
+                    <a class="item online-help-tab1-btn" onclick="content('issp_admin/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
 
                     <ul class="online-help-tab1-subitem">
-                        <li><a class="subitem" onclick="content('techub_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
                     </ul>
                 </li>
 
@@ -40,6 +40,28 @@
             <div class="div-faqs">
 
                 <li><a class="subitem" onclick="content('techub_admin/Add-Technology.html')" href="#">How to Add Technology</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
                 
                 <li style="padding-top: 25px; background-color: white;"></li>   
                              
