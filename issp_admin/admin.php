@@ -27,6 +27,47 @@
                     </ul>
                 </li>
 
+                <!-- Default Screen -->
+                <li>
+                    <a class="item" onclick="content('issp_admin/Default-Screen.html')" href="#">Default Screen</a>
+                </li>
+
+                <!-- RMIS Module -->
+                <li>
+                    <a class="item" onclick="content('issp_admin/ISSP-Module.html')" href="#">RMIS Module</a>
+                </li>
+
+                <!-- Dashboard -->
+                <li>
+                    <a class="item" onclick="content('issp_admin/Dashboard.html')" href="#">Dashboard</a>
+                </li>
+
+                <!-- Agency Profile -->
+                <li>
+                    <a class="item online-help-tab2-btn" onclick="content('issp_admin/Agency-Profile.html')" href="#">Agency Profile<span class="fas fa-caret-down second"></span></a>
+
+                    <ul class="online-help-tab2-subitem">
+
+                        <li>
+                            <!-- Profile -->
+                            <a class="subitem online-help-tab2-1-subitem" onclick="content('issp_admin/Profile.html')" href="#">Profile<span class="fas fa-caret-down second-1"></span></a>
+
+                            <ul class="online-help-tab2-1-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_admin/Print-Report-Summary.html')" href="#">How to Print Report Summary</a>
+                            </ul>                      
+
+                            <!-- Mandate -->
+                            <a class="subitem online-help-tab2-2-subitem" onclick="content('issp_admin/Mandate.html')" href="#">Mandate<span class="fas fa-caret-down second-2"></span></a>
+
+                            <ul class="online-help-tab2-2-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_admin/Upload-Report.html')" href="#">How to Upload Report</a>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </li>
+
+
                 <li style="padding-top: 25px; background-color: white;"></li>
                 
             </div>

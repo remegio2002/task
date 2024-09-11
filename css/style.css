@@ -122,6 +122,10 @@ nav ul ul li {
   font-size: 15px;  
   padding-left: 35px;
 }
+.subitem2 {
+  font-size: 15px;  
+  padding-left: 50px;
+}
 nav ul ul li a:hover {
   color: black;
   background:#00BBF9!important;
