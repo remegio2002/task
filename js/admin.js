@@ -52,18 +52,10 @@ document.querySelector('.online-help-tab2-btn').addEventListener('click', functi
     document.querySelector('.second').classList.toggle('rotate');
 });
 
-
-
-document.querySelector('.online-help-tab2-1-subitem').addEventListener('click', function() {
-    document.querySelector('.online-help-tab2-1-sub-subitem').classList.toggle('show');
-    document.querySelector('.second-1').classList.toggle('rotate');
+document.querySelector('.online-help-tab3-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-subitem').classList.toggle('show');
+    document.querySelector('.third').classList.toggle('rotate');
 });
-
-document.querySelector('.online-help-tab2-2-subitem').addEventListener('click', function() {
-    document.querySelector('.online-help-tab2-2-sub-subitem').classList.toggle('show');
-    document.querySelector('.second-2').classList.toggle('rotate');
-});
-
 
 
 

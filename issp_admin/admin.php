@@ -34,7 +34,7 @@
 
                 <!-- RMIS Module -->
                 <li>
-                    <a class="item" onclick="content('issp_admin/ISSP-Module.html')" href="#">RMIS Module</a>
+                    <a class="item" onclick="content('issp_admin/ISSP-Module.html')" href="#">ISSP Module</a>
                 </li>
 
                 <!-- Dashboard -->
@@ -47,23 +47,20 @@
                     <a class="item online-help-tab2-btn" onclick="content('issp_admin/Agency-Profile.html')" href="#">Agency Profile<span class="fas fa-caret-down second"></span></a>
 
                     <ul class="online-help-tab2-subitem">
+                        <li><a class="subitem" onclick="content('issp_admin/Profile.html')" href="#">How to View Agency Profile</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/Mandate.html')" href="#">How to View Agency Mandate</a></li>
+                    </ul>
+                </li>
 
-                        <li>
-                            <!-- Profile -->
-                            <a class="subitem online-help-tab2-1-subitem" onclick="content('issp_admin/Profile.html')" href="#">Profile<span class="fas fa-caret-down second-1"></span></a>
+                <!-- Strategic Plan -->
+                <li>
+                    <a class="item online-help-tab3-btn" onclick="content('issp_admin/Strategic-Plan.html')" href="#">Strategic Plan<span class="fas fa-caret-down third"></span></a>
 
-                            <ul class="online-help-tab2-1-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_admin/Print-Report-Summary.html')" href="#">How to Print Report Summary</a>
-                            </ul>                      
-
-                            <!-- Mandate -->
-                            <a class="subitem online-help-tab2-2-subitem" onclick="content('issp_admin/Mandate.html')" href="#">Mandate<span class="fas fa-caret-down second-2"></span></a>
-
-                            <ul class="online-help-tab2-2-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_admin/Upload-Report.html')" href="#">How to Upload Report</a>
-                            </ul>
-                        </li>
-
+                    <ul class="online-help-tab3-subitem">
+                        <li><a class="subitem" onclick="content('issp_admin/Organizational-Structure.html')" href="#">How to View Organizational Structure</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/IS-Strategy.html')" href="#">How to View IS Strategy</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/ICT-Projects.html')" href="#">How to View ICT Projects</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">How to View Resource Requirements</a></li>
                     </ul>
                 </li>
 
