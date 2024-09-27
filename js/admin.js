@@ -59,6 +59,25 @@ document.querySelector('.online-help-tab3-btn').addEventListener('click', functi
 
 
 
+document.querySelector('.online-help-tab3-1-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-1-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-1').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab3-2-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-2-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-2').classList.toggle('rotate');
+});
+
+
+
+document.querySelector('.online-help-tab4-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab4-subitem').classList.toggle('show');
+    document.querySelector('.fourth').classList.toggle('rotate');
+});
+
+
+
 // Toggle active class on nav items
 document.querySelectorAll('nav ul li').forEach(navitem => {
     navitem.addEventListener('click', function() {

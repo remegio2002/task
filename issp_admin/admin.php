@@ -57,10 +57,33 @@
                     <a class="item online-help-tab3-btn" onclick="content('issp_admin/Strategic-Plan.html')" href="#">Strategic Plan<span class="fas fa-caret-down third"></span></a>
 
                     <ul class="online-help-tab3-subitem">
-                        <li><a class="subitem" onclick="content('issp_admin/Organizational-Structure.html')" href="#">How to View Organizational Structure</a></li>
-                        <li><a class="subitem" onclick="content('issp_admin/IS-Strategy.html')" href="#">How to View IS Strategy</a></li>
-                        <li><a class="subitem" onclick="content('issp_admin/ICT-Projects.html')" href="#">How to View ICT Projects</a></li>
-                        <li><a class="subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">How to View Resource Requirements</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/Organizational-Structure.html')" href="#">Organizational Structure</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/IS-Strategy.html')" href="#">IS Strategy</a></li>
+
+                        <li>
+                            <a class="subitem online-help-tab3-1-subitem" onclick="content('issp_admin/ICT-Projects.html')" href="#">ICT Projects<span class="fas fa-caret-down third-1"></span></a>
+
+                            <ul class="online-help-tab3-1-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/View-List-Grants-In-Aid-Projects.html')" href="#">How to View the list of Grants-In-Aid (GIA) Projects</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/View-List-Cross-Agency-ICT-Projects.html')" href="#">How to View the list of Cross-Agency ICT Projects</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab3-2-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">Resource Requirements<span class="fas fa-caret-down third-2"></span></a>
+
+                            <ul class="online-help-tab3-2-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/View-List-Continuing-Costs.html')" href="#">How to View the list of Continuing Costs</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </li>
+
+                <!-- Report -->
+                <li>
+                    <a class="item online-help-tab4-btn" onclick="content('issp_admin/Report.html')" href="#">Report<span class="fas fa-caret-down fourth"></span></a>
+
+                    <ul class="online-help-tab4-subitem">
+                        <li><a class="subitem" onclick="content('issp_admin/Generate-Report.html')" href="#">How to Print Information Systems Strategic Plan</a></li>
                     </ul>
                 </li>
 
