@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins/Poppins-Regular.ttf') format('truetype'),
+       url('../fonts/Poppins/Poppins-Bold.ttf') format('truetype'),   
+
+       /* Add URLs for other weights if downloaded */
+       url('../fonts/Poppins/Poppins-Medium.ttf') format('truetype'),
+       url('../fonts/Poppins/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 400; /* Default weight */
+  font-style: normal;
+}
+
 *{
   margin: 0;
   padding: 0;

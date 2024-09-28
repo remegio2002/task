@@ -7,7 +7,7 @@
     
     <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="css/Default-Screen.css?v=<?php echo time(); ?>">
-    <link rel="stylesheet" href="fontawesome/css/all.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/all.css">
     
     <link rel="icon" type="image/x-icon" href="img_asset/dost_logo.png">
     <title>ISSP Online Help</title>
