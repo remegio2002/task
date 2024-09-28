@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Poppins';
   src: url('../fonts/Poppins/Poppins-Regular.ttf') format('truetype'),
-       url('../fonts/Poppins/Poppins-Bold.ttf') format('truetype'),   
+       url('../fonts/Poppins/Poppins-Bold.ttf') format('truetype'),
 
        /* Add URLs for other weights if downloaded */
        url('../fonts/Poppins/Poppins-Medium.ttf') format('truetype'),
