@@ -37,7 +37,7 @@ body {
 .topbar img {
   margin-left: 8px;
   margin-top: 8px;
-  height: 56px;
+  height: 60px;
 }
 .banner {
   flex: 1;
@@ -73,11 +73,11 @@ body {
 
 .sidebar {
   width: 300px;
-  height: 90%;
+  height: 89%;
   background: white;
   transition: left 0.4s ease;
   position: fixed;
-  top: 71px;
+  top: 75px;
   overflow-y: auto;
 }
 nav ul {
@@ -188,7 +188,7 @@ nav ul ul {
 /* Sidebar Right Content */
 
 #div_content {
-  padding: 32px 0px 80px 348px;
+  padding: 0px 0px 80px 348px;
 }
 
 #content {
