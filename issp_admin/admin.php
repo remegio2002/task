@@ -83,10 +83,75 @@
                     <a class="item online-help-tab4-btn" onclick="content('issp_admin/Report.html')" href="#">Report<span class="fas fa-caret-down fourth"></span></a>
 
                     <ul class="online-help-tab4-subitem">
-                        <li><a class="subitem" onclick="content('issp_admin/Generate-Report.html')" href="#">How to Print Information Systems Strategic Plan</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/Preview-Report.html')" href="#">How to Preview Information Systems Strategic Plan</a></li>
                     </ul>
                 </li>
 
+                 <!-- Library -->
+                 <li>
+                    <a class="item online-help-tab5-btn" onclick="content('issp_admin/Library.html')" href="#">Library<span class="fas fa-caret-down fifth"></span></a>
+
+                    <ul class="online-help-tab5-subitem">
+
+                        <li>
+                            <a class="subitem online-help-tab5-1-subitem" onclick="content('issp_admin/.html')" href="#">Agency / Institution<span class="fas fa-caret-down fifth-1"></span></a>
+
+                            <ul class="online-help-tab5-1-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search Agency / Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add Agency / Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit Agency / Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Agency / Institution</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab5-2-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">Funding Source<span class="fas fa-caret-down fifth-2"></span></a>
+
+                            <ul class="online-help-tab5-2-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search Funding</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add Funding</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit Funding</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Funding</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab5-3-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">ICT Categories<span class="fas fa-caret-down fifth-3"></span></a>
+
+                            <ul class="online-help-tab5-3-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search ICT Category</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add ICT Category</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit ICT Category</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete ICT Category</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab5-4-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">ICT Items<span class="fas fa-caret-down fifth-4"></span></a>
+
+                            <ul class="online-help-tab5-4-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search ICT Item</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add ICT Item</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit ICT Item</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete ICT Item</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab5-5-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">IS Classification<span class="fas fa-caret-down fifth-5"></span></a>
+
+                            <ul class="online-help-tab5-5-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete IS Classification</a></li>
+                            </ul>
+
+                            <a class="subitem online-help-tab5-6-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">User Accounts<span class="fas fa-caret-down fifth-6"></span></a>
+
+                            <ul class="online-help-tab5-6-sub-subitem">
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete User Account</a></li>
+                            </ul>
+
+                        </li>
+
+                    </ul>
+                </li>
 
                 <li style="padding-top: 25px; background-color: white;"></li>
                 

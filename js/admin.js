@@ -76,6 +76,45 @@ document.querySelector('.online-help-tab4-btn').addEventListener('click', functi
     document.querySelector('.fourth').classList.toggle('rotate');
 });
 
+document.querySelector('.online-help-tab5-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-subitem').classList.toggle('show');
+    document.querySelector('.fifth').classList.toggle('rotate');
+});
+
+
+
+document.querySelector('.online-help-tab5-1-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-1-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-1').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab5-2-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-2-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-2').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab5-3-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-3-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-3').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab5-4-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-4-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-4').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab5-5-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-5-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-5').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab5-6-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab5-6-sub-subitem').classList.toggle('show');
+    document.querySelector('.fifth-6').classList.toggle('rotate');
+});
+
+
+
 
 
 // Toggle active class on nav items
