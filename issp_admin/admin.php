@@ -100,7 +100,7 @@
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Search-Agency-Institution.html')" href="#">How to Search Agency/Institution</a></li>
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Add-Agency-Institution.html')" href="#">How to Add Agency/Institution</a></li>
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-Agency-Institution.html')" href="#">How to Edit Agency/Institution</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Agency/Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-Agency-Institution.html')" href="#">How to Delete Agency/Institution</a></li>
                             </ul>
 
                             <a class="subitem online-help-tab5-2-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">Funding Source<span class="fas fa-caret-down fifth-2"></span></a>
