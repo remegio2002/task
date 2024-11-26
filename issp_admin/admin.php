@@ -94,13 +94,13 @@
                     <ul class="online-help-tab5-subitem">
 
                         <li>
-                            <a class="subitem online-help-tab5-1-subitem" onclick="content('issp_admin/.html')" href="#">Agency / Institution<span class="fas fa-caret-down fifth-1"></span></a>
+                            <a class="subitem online-help-tab5-1-subitem" onclick="content('issp_admin/Agency-Institution.html')" href="#">Agency/Institution<span class="fas fa-caret-down fifth-1"></span></a>
 
                             <ul class="online-help-tab5-1-sub-subitem">
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search Agency / Institution</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add Agency / Institution</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit Agency / Institution</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Agency / Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Search-Agency-Institution.html')" href="#">How to Search Agency/Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-Agency-Institution.html')" href="#">How to Add Agency/Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit Agency/Institution</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Agency/Institution</a></li>
                             </ul>
 
                             <a class="subitem online-help-tab5-2-subitem" onclick="content('issp_admin/Resource-Requirements.html')" href="#">Funding Source<span class="fas fa-caret-down fifth-2"></span></a>
