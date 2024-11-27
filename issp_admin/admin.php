@@ -112,37 +112,37 @@
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-Funding-Source.html')" href="#">How to Delete Funding Source</a></li>
                             </ul>
 
-                            <a class="subitem online-help-tab5-3-subitem" onclick="content('issp_admin/.html')" href="#">ICT Categories<span class="fas fa-caret-down fifth-3"></span></a>
+                            <a class="subitem online-help-tab5-3-subitem" onclick="content('issp_admin/ICT-Categories.html')" href="#">ICT Categories<span class="fas fa-caret-down fifth-3"></span></a>
 
                             <ul class="online-help-tab5-3-sub-subitem">
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search ICT Category</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add ICT Category</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit ICT Category</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete ICT Category</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Search-ICT-Categories.html')" href="#">How to Search ICT Categories</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-ICT-Categories.html')" href="#">How to Add ICT Categories</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-ICT-Categories.html')" href="#">How to Edit ICT Categories</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-ICT-Categories.html')" href="#">How to Delete ICT Categories</a></li>
                             </ul>
 
-                            <a class="subitem online-help-tab5-4-subitem" onclick="content('issp_admin/.html')" href="#">ICT Items<span class="fas fa-caret-down fifth-4"></span></a>
+                            <a class="subitem online-help-tab5-4-subitem" onclick="content('issp_admin/ICT-Items.html')" href="#">ICT Items<span class="fas fa-caret-down fifth-4"></span></a>
 
                             <ul class="online-help-tab5-4-sub-subitem">
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search ICT Item</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add ICT Item</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit ICT Item</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete ICT Item</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Search-ICT-Items.html')" href="#">How to Search ICT Items</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-ICT-Items.html')" href="#">How to Add ICT Items</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-ICT-Items.html')" href="#">How to Edit ICT Items</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-ICT-Items.html')" href="#">How to Delete ICT Items</a></li>
                             </ul>
 
-                            <a class="subitem online-help-tab5-5-subitem" onclick="content('issp_admin/.html')" href="#">IS Classification<span class="fas fa-caret-down fifth-5"></span></a>
+                            <a class="subitem online-help-tab5-5-subitem" onclick="content('issp_admin/IS-Classification.html')" href="#">IS Classification<span class="fas fa-caret-down fifth-5"></span></a>
 
                             <ul class="online-help-tab5-5-sub-subitem">
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search IS Classification</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add IS Classification</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit IS Classification</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Search-IS-Classification.html')" href="#">How to Search IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-IS-Classification.html')" href="#">How to Add IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-IS-Classification.html')" href="#">How to Edit IS Classification</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-IS-Classification.html')" href="#">How to Delete IS Classification</a></li>
                             </ul>
 
-                            <a class="subitem online-help-tab5-6-subitem" onclick="content('issp_admin/.html')" href="#">User Accounts<span class="fas fa-caret-down fifth-6"></span></a>
+                            <a class="subitem online-help-tab5-6-subitem" onclick="content('issp_admin/User-Accounts.html')" href="#">User Accounts<span class="fas fa-caret-down fifth-6"></span></a>
 
                             <ul class="online-help-tab5-6-sub-subitem">
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Search User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Search-User-Account.html')" href="#">How to Search User Accounts</a></li>
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add User Account</a></li>
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit User Account</a></li>
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete User Account</a></li>
@@ -165,29 +165,13 @@
 
             <div class="div-faqs">
 
-                <li><a class="subitem" onclick="content('techub_admin/Add-Technology.html')" href="#">How to Add Technology</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-Technology.html')" href="#">How to Add Technology</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
                 
                 <li style="padding-top: 25px; background-color: white;"></li>   
                              
