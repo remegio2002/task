@@ -107,9 +107,9 @@
 
                             <ul class="online-help-tab5-2-sub-subitem">
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Search-Funding-Source.html')" href="#">How to Search Funding Source</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add Funding Source</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit Funding Source</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete Funding Source</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-Funding-Source.html')" href="#">How to Add Funding Source</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-Funding-Source.html')" href="#">How to Edit Funding Source</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-Funding-Source.html')" href="#">How to Delete Funding Source</a></li>
                             </ul>
 
                             <a class="subitem online-help-tab5-3-subitem" onclick="content('issp_admin/.html')" href="#">ICT Categories<span class="fas fa-caret-down fifth-3"></span></a>
