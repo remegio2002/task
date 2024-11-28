@@ -13,7 +13,7 @@
                 <!-- Search -->
                 <li>
                     <div class="search_textbox">
-                        <input class="search_placeholder" id="search_key" name="search_key" placeholder="Search..." type="text">                        
+                        <input class="search_placeholder" id="search_key" name="search_key" placeholder="Search..." type="text" onkeyup="searchLinks()">                        
                         <span class="fa-solid fa-magnifying-glass"></span>                        
                     </div>
                 </li>
@@ -170,17 +170,55 @@
                 <span><i class="fa-sharp fa-solid fa-comments fa-2x"></i></span>
                 &nbsp;
                 <span class="leftside-tab">FAQs</span>
-            </li>                    
+            </li>
 
             <div class="div-faqs">
 
-                <li><a class="subitem" onclick="content('issp_admin/Add-Technology.html')" href="#">How to Add Technology</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
-                <li><a class="subitem" onclick="content('issp_admin/How-to-Login.html')" href="#">How to Login</a></li>
+                <!-- Agency Profile -->
+                <li><a class="subitem" onclick="content('issp_admin/Profile.html')" href="#">How to View Agency Profile</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Mandate.html')" href="#">How to View Agency Mandate</a></li>
+
+                <!-- Strategic Plan -->
+                <li><a class="subitem" onclick="content('issp_admin/View-List-Grants-In-Aid-Projects.html')" href="#">How to View the list of Grants-In-Aid (GIA) Projects</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/View-List-Cross-Agency-ICT-Projects.html')" href="#">How to View the list of Cross-Agency ICT Projects</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/View-List-Continuing-Costs.html')" href="#">How to View the list of Continuing Costs</a></li>
+
+                <!-- Report -->
+                <li><a class="subitem" onclick="content('issp_admin/Preview-Report.html')" href="#">How to Preview Information Systems Strategic Plan</a></li>
+
+                <!-- Library -->
+                <li><a class="subitem" onclick="content('issp_admin/Search-Agency-Institution.html')" href="#">How to Search Agency/Institution</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-Agency-Institution.html')" href="#">How to Add Agency/Institution</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-Agency-Institution.html')" href="#">How to Edit Agency/Institution</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-Agency-Institution.html')" href="#">How to Delete Agency/Institution</a></li>
+
+                <li><a class="subitem" onclick="content('issp_admin/Search-Funding-Source.html')" href="#">How to Search Funding Source</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-Funding-Source.html')" href="#">How to Add Funding Source</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-Funding-Source.html')" href="#">How to Edit Funding Source</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-Funding-Source.html')" href="#">How to Delete Funding Source</a></li>
+
+                <li><a class="subitem" onclick="content('issp_admin/Search-ICT-Categories.html')" href="#">How to Search ICT Categories</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-ICT-Categories.html')" href="#">How to Add ICT Categories</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-ICT-Categories.html')" href="#">How to Edit ICT Categories</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-ICT-Categories.html')" href="#">How to Delete ICT Categories</a></li>
+
+                <li><a class="subitem" onclick="content('issp_admin/Search-ICT-Items.html')" href="#">How to Search ICT Items</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-ICT-Items.html')" href="#">How to Add ICT Items</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-ICT-Items.html')" href="#">How to Edit ICT Items</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-ICT-Items.html')" href="#">How to Delete ICT Items</a></li>
+
+                <li><a class="subitem" onclick="content('issp_admin/Search-IS-Classification.html')" href="#">How to Search IS Classification</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-IS-Classification.html')" href="#">How to Add IS Classification</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-IS-Classification.html')" href="#">How to Edit IS Classification</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-IS-Classification.html')" href="#">How to Delete IS Classification</a></li>
+
+                <li><a class="subitem" onclick="content('issp_admin/Search-User-Account.html')" href="#">How to Search User Accounts</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Add-User-Account.html')" href="#">How to Add User Account</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Edit-User-Account.html')" href="#">How to Edit User Account</a></li>
+                <li><a class="subitem" onclick="content('issp_admin/Delete-User-Account.html')" href="#">How to Delete User Account</a></li>
+
+                <!-- User -->
+                <li><a class="subitem" onclick="content('issp_admin/Logout.html')" href="#">How to Logout</a></li>
                 
                 <li style="padding-top: 25px; background-color: white;"></li>   
                              

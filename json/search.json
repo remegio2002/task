@@ -1,10 +1,122 @@
 [
 	{
-		"keyword":"Login",
-		"target":"ppm_proponent/How-to-Login.html"
+		"keyword":"How to View Agency Profile",
+		"target":"issp_admin/Profile.html"
 	},
 	{
-		"keyword":"How to login",
-		"target":"ppm_proponent/How-to-Login.html"
+		"keyword":"How to View Agency Mandate",
+		"target":"issp_admin/Mandate.html"
+	},
+	{
+		"keyword":"How to View the list of Grants-In-Aid (GIA) Projects",
+		"target":"issp_admin/View-List-Grants-In-Aid-Projects.html"
+	},
+	{
+		"keyword":"How to View the list of Cross-Agency ICT Projects",
+		"target":"issp_admin/View-List-Cross-Agency-ICT-Projects.html"
+	},
+	{
+		"keyword":"How to View the list of Continuing Costs",
+		"target":"issp_admin/View-List-Continuing-Costs.html"
+	},
+	{
+		"keyword":"How to Preview Information Systems Strategic Plan",
+		"target":"issp_admin/Preview-Report.html"
+	},
+	{
+		"keyword":"How to Search Agency/Institution",
+		"target":"issp_admin/Search-Agency-Institution.html"
+	},
+	{
+		"keyword":"How to Add Agency/Institution",
+		"target":"issp_admin/Add-Agency-Institution.html"
+	},
+	{
+		"keyword":"How to Edit Agency/Institution",
+		"target":"issp_admin/Edit-Agency-Institution.html"
+	},
+	{
+		"keyword":"How to Delete Agency/Institution",
+		"target":"issp_admin/Delete-Agency-Institution.html"
+	},
+	{
+		"keyword":"How to Search Funding Source",
+		"target":"issp_admin/Search-Funding-Source.html"
+	},
+	{
+		"keyword":"How to Add Funding Source",
+		"target":"issp_admin/Add-Funding-Source.html"
+	},
+	{
+		"keyword":"How to Edit Funding Source",
+		"target":"issp_admin/Edit-Funding-Source.html"
+	},
+	{
+		"keyword":"How to Delete Funding Source",
+		"target":"issp_admin/Delete-Funding-Source.html"
+	},
+	{
+		"keyword":"How to Search ICT Categories",
+		"target":"issp_admin/Search-ICT-Categories.html"
+	},
+	{
+		"keyword":"How to Add ICT Categories",
+		"target":"issp_admin/Add-ICT-Categories.html"
+	},
+	{
+		"keyword":"How to Edit ICT Categories",
+		"target":"issp_admin/Edit-ICT-Categories.html"
+	},
+	{
+		"keyword":"How to Delete ICT Categories",
+		"target":"issp_admin/Delete-ICT-Categories.html"
+	},
+	{
+		"keyword":"How to Search ICT Items",
+		"target":"issp_admin/Search-ICT-Items.html"
+	},
+	{
+		"keyword":"How to Add ICT Items",
+		"target":"issp_admin/Add-ICT-Items.html"
+	},
+	{
+		"keyword":"How to Edit ICT Items",
+		"target":"issp_admin/Edit-ICT-Items.html"
+	},
+	{
+		"keyword":"How to Delete ICT Items",
+		"target":"issp_admin/Delete-ICT-Items.html"
+	},
+	{
+		"keyword":"How to Search IS Classification",
+		"target":"issp_admin/Search-IS-Classification.html"
+	},
+	{
+		"keyword":"How to Add IS Classification",
+		"target":"issp_admin/Add-IS-Classification.html"
+	},
+	{
+		"keyword":"How to Edit IS Classification",
+		"target":"issp_admin/Edit-IS-Classification.html"
+	},
+	{
+		"keyword":"How to Delete IS Classification",
+		"target":"issp_admin/Delete-IS-Classification.html"
+	},
+	{
+		"keyword":"How to Search User Accounts",
+		"target":"issp_admin/Search-User-Account.html"
+	},
+	{
+		"keyword":"How to Add User Account",
+		"target":"issp_admin/Add-User-Account.html"
+	},
+	{
+		"keyword":"How to Edit User Account",
+		"target":"issp_admin/Edit-User-Account.html"
+	},
+	{
+		"keyword":"How to Delete User Account",
+		"target":"issp_admin/Delete-User-Account.html"
 	}
 ]
