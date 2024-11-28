@@ -143,13 +143,22 @@
 
                             <ul class="online-help-tab5-6-sub-subitem">
                                 <li><a class="subitem subitem2" onclick="content('issp_admin/Search-User-Account.html')" href="#">How to Search User Accounts</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Add User Account</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Edit User Account</a></li>
-                                <li><a class="subitem subitem2" onclick="content('issp_admin/.html')" href="#">How to Delete User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Add-User-Account.html')" href="#">How to Add User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Edit-User-Account.html')" href="#">How to Edit User Account</a></li>
+                                <li><a class="subitem subitem2" onclick="content('issp_admin/Delete-User-Account.html')" href="#">How to Delete User Account</a></li>
                             </ul>
 
                         </li>
 
+                    </ul>
+                </li>
+
+                <!-- User -->
+                <li>
+                    <a class="item online-help-tab6-btn" onclick="content('issp_admin/User.html')" href="#">User<span class="fas fa-caret-down sixth"></span></a>
+
+                    <ul class="online-help-tab6-subitem">
+                        <li><a class="subitem" onclick="content('issp_admin/Logout.html')" href="#">How to Logout</a></li>
                     </ul>
                 </li>
 
