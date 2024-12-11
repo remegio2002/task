@@ -28,11 +28,11 @@
     </div>
 
     <?php
-      if ($_GET['param']==md5('admin')){
+      if ($_GET['param']==('admin')){
         include_once('issp_admin/admin.php');
       }
 
-      else if ($_GET['param']==md5('agency')){
+      else if ($_GET['param']==('agency')){
         include_once('issp_agency/agency.php');
       }
 
