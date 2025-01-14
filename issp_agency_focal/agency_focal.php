@@ -23,7 +23,7 @@
                     <a class="item online-help-tab1-btn" onclick="content('issp_agency_focal/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
 
                     <ul class="online-help-tab1-subitem">
-                        <li><a class="subitem" onclick="content('issp_agency_focal/How-to-Login.html')" href="#">How to Login</a></li>
+                        <a class="subitem" onclick="content('issp_agency_focal/How-to-Login.html')" href="#">How to Login</a>
                         
                     </ul>
                 </li>
@@ -45,11 +45,26 @@
 
                 <!-- Agency Profile -->
                 <li>
-                    <a class="item online-help-tab2-btn" onclick="content('issp_admin/Agency-Profile.html')" href="#">Agency Profile<span class="fas fa-caret-down second"></span></a>
+                    <a class="item online-help-tab2-btn" onclick="content('issp_agency_focal/Agency-Profile.html')" href="#">Agency Profile<span class="fas fa-caret-down second"></span></a>
 
                     <ul class="online-help-tab2-subitem">
-                        <li><a class="subitem" onclick="content('issp_admin/Profile.html')" href="#">How to View Agency Profile</a></li>
-                        <li><a class="subitem" onclick="content('issp_admin/Mandate.html')" href="#">How to View Agency Mandate</a></li>
+
+                        <li>
+                            <!-- Profile -->
+                            <a class="subitem online-help-tab2-1-subitem" onclick="content('issp_agency_focal/Profile.html')" href="#">Profile<span class="fas fa-caret-down second-1"></span></a>
+
+                            <ul class="online-help-tab2-1-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')" href="#">Dashboard</a>
+                            </ul>
+
+                            <!-- Mandate -->
+                            <a class="subitem online-help-tab2-2-subitem" onclick="content('issp_agency_focal/Mandate.html')" href="#">Mandate<span class="fas fa-caret-down second-2"></span></a>
+
+                            <ul class="online-help-tab2-2-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')" href="#">Dashboard</a>
+                            </ul>
+                        </li>
+
                     </ul>
                 </li>
 
