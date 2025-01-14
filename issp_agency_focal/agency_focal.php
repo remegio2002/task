@@ -20,11 +20,36 @@
 
                 <!-- Login -->
                 <li>
-                    <a class="item online-help-tab1-btn" onclick="content('techub_adoptors/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
+                    <a class="item online-help-tab1-btn" onclick="content('issp_agency_focal/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
 
                     <ul class="online-help-tab1-subitem">
-                        <li><a class="subitem" onclick="content('techub_adoptors/How-to-Login.html')" href="#">How to Login</a></li>
+                        <li><a class="subitem" onclick="content('issp_agency_focal/How-to-Login.html')" href="#">How to Login</a></li>
                         
+                    </ul>
+                </li>
+
+                <!-- Default Screen -->
+                <li>
+                    <a class="item" onclick="content('issp_agency_focal/Default-Screen.html')" href="#">Default Screen</a>
+                </li>
+
+                <!-- ISSP Module -->
+                <li>
+                    <a class="item" onclick="content('issp_agency_focal/ISSP-Module.html')" href="#">ISSP Module</a>
+                </li>
+
+                <!-- Dashboard -->
+                <li>
+                    <a class="item" onclick="content('issp_agency_focal/Dashboard.html')" href="#">Dashboard</a>
+                </li>
+
+                <!-- Agency Profile -->
+                <li>
+                    <a class="item online-help-tab2-btn" onclick="content('issp_admin/Agency-Profile.html')" href="#">Agency Profile<span class="fas fa-caret-down second"></span></a>
+
+                    <ul class="online-help-tab2-subitem">
+                        <li><a class="subitem" onclick="content('issp_admin/Profile.html')" href="#">How to View Agency Profile</a></li>
+                        <li><a class="subitem" onclick="content('issp_admin/Mandate.html')" href="#">How to View Agency Mandate</a></li>
                     </ul>
                 </li>
 
@@ -71,4 +96,4 @@
     </div>
 </div>
 
-<script src="js/agency.js"></script>
+<script src="js/agency_focal.js"></script>

@@ -38,7 +38,7 @@
       }
 
       else if ($_GET['param']==('agency_focal')){
-        include_once('issp_agency/agency_focal.php');
+        include_once('issp_agency_focal/agency_focal.php');
       }
 
       else if ($_GET['param']==('office_focal')){

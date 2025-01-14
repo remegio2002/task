@@ -47,6 +47,11 @@ document.querySelector('.online-help-tab1-btn').addEventListener('click', functi
     document.querySelector('.first').classList.toggle('rotate');
 });
 
+document.querySelector('.online-help-tab2-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab2-subitem').classList.toggle('show');
+    document.querySelector('.second').classList.toggle('rotate');
+});
+
 
 // Toggle active class on nav items
 document.querySelectorAll('nav ul li').forEach(navItem => {

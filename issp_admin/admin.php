@@ -32,7 +32,7 @@
                     <a class="item" onclick="content('issp_admin/Default-Screen.html')" href="#">Default Screen</a>
                 </li>
 
-                <!-- RMIS Module -->
+                <!-- ISSP Module -->
                 <li>
                     <a class="item" onclick="content('issp_admin/ISSP-Module.html')" href="#">ISSP Module</a>
                 </li>
