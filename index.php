@@ -32,13 +32,23 @@
         include_once('issp_admin/admin.php');
       }
 
-      else if ($_GET['param']==('agency')){
-        include_once('issp_agency/agency.php');
+      else if ($_GET['param']==('is_planner')){
+        ?> <h1 align="center">Ongoing Development</h1> <?php
+        // include_once('issp_agency/is_planner.php');
+      }
+
+      else if ($_GET['param']==('agency_focal')){
+        include_once('issp_agency/agency_focal.php');
+      }
+
+      else if ($_GET['param']==('office_focal')){
+        // ?> <h1 align="center">Ongoing Development</h1> <?php
+        // include_once('issp_agency/office_focal.php');
       }
 
       else{
         ?>
-        <h1>Something went wrong!</h1>
+        <h1 align="center">Something went wrong!</h1>
         <?php
       }
     ?>
