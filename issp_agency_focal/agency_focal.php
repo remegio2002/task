@@ -23,8 +23,9 @@
                     <a class="item online-help-tab1-btn" onclick="content('issp_agency_focal/Login.html')" href="#">Login<span class="fas fa-caret-down first"></span></a>
 
                     <ul class="online-help-tab1-subitem">
+                        <a class="subitem" onclick="content('issp_agency_focal/Chabge-Default-Password.html')" href="#">How to Chabge Default Password</a>
+                        <a class="subitem" onclick="content('issp_agency_focal/Initiate-Password-Reset.html')" href="#">How to Initiate Password Reset</a>
                         <a class="subitem" onclick="content('issp_agency_focal/How-to-Login.html')" href="#">How to Login</a>
-                        
                     </ul>
                 </li>
 
