@@ -55,14 +55,61 @@
                             <a class="subitem online-help-tab2-1-subitem" onclick="content('issp_agency_focal/Profile.html')">Profile<span class="fas fa-caret-down second-1"></span></a>
 
                             <ul class="online-help-tab2-1-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Update-Organizational-Chart.html')">How to Update Organizational Chart</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Organizational-Chart.html')">How to Add Organizational Chart</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Organizational-Chart.html')">How to Edit Organizational Chart</a>
                             </ul>
 
                             <!-- Mandate -->
                             <a class="subitem online-help-tab2-2-subitem" onclick="content('issp_agency_focal/Mandate.html')">Mandate<span class="fas fa-caret-down second-2"></span></a>
 
                             <ul class="online-help-tab2-2-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">Dashboard</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Agency-Mandate.html')">How to Add Agency Mandate</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Agency-Mandate.html')">How to Edit Agency Mandate</a>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </li>
+
+                <!-- Strategic Plan -->
+                <li>
+                    <a class="item online-help-tab3-btn" onclick="content('issp_agency_focal/Strategic-Plan.html')">Strategic Plan<span class="fas fa-caret-down third"></span></a>
+
+                    <ul class="online-help-tab3-subitem">
+
+                        <li>
+                            <!-- Organizational Structure -->
+                            <a class="subitem online-help-tab3-1-subitem" onclick="content('issp_agency_focal/Organizational-Structure.html')">Organizational Structure<span class="fas fa-caret-down third-1"></span></a>
+
+                            <ul class="online-help-tab3-1-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Organizational-Structure.html')">How to Add Organizational Structure</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Organizational-Structure.html')">How to Edit Organizational Structure</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Strategic-Concerns-for-ICT-Use.html')">How to Add Strategic Concerns for ICT Use</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Strategic-Concerns-for-ICT-Use.html')">How to Edit Strategic Concerns for ICT Use</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Strategic-Concerns-for-ICT-Use.html')">How to Delete Strategic Concerns for ICT Use</a>
+                            </ul>
+
+                            <!-- IS Strategy -->
+                            <a class="subitem online-help-tab3-2-subitem" onclick="content('issp_agency_focal/IS-Strategy.html')">IS Strategy<span class="fas fa-caret-down third-2"></span></a>
+
+                            <ul class="online-help-tab3-2-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-IS-Strategy.html')">How to Add IS Strategy</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-IS-Strategy.html')">How to Edit IS Strategy</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Proposed-Information-Systems.html')">How to Add Proposed Information Systems</a>
+                            </ul>
+
+                            <!-- ICT Projects -->
+                            <a class="subitem online-help-tab3-3-subitem" onclick="content('issp_agency_focal/ICT-Projects.html')">ICT Projects<span class="fas fa-caret-down third-3"></span></a>
+
+                            <ul class="online-help-tab3-3-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">How to Add Agency Mandate</a>
+                            </ul>
+
+                            <!-- Resource Requirements -->
+                            <a class="subitem online-help-tab3-4-subitem" onclick="content('issp_agency_focal/Resource-Requirements.html')">Resource Requirements<span class="fas fa-caret-down third-4"></span></a>
+
+                            <ul class="online-help-tab3-4-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">How to Add Agency Mandate</a>
                             </ul>
                         </li>
 

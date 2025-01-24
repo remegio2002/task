@@ -66,6 +66,36 @@ document.querySelector('.online-help-tab2-2-subitem').addEventListener('click', 
 
 
 
+document.querySelector('.online-help-tab3-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-subitem').classList.toggle('show');
+    document.querySelector('.third').classList.toggle('rotate');
+});
+
+
+
+document.querySelector('.online-help-tab3-1-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-1-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-1').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab3-2-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-2-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-2').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab3-3-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-3-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-3').classList.toggle('rotate');
+});
+
+document.querySelector('.online-help-tab3-4-subitem').addEventListener('click', function() {
+    document.querySelector('.online-help-tab3-4-sub-subitem').classList.toggle('show');
+    document.querySelector('.third-4').classList.toggle('rotate');
+});
+
+
+
+
 // Toggle active class on nav items
 document.querySelectorAll('nav ul li').forEach(navItem => {
     navItem.addEventListener('click', function() {
