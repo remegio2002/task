@@ -96,13 +96,24 @@
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-IS-Strategy.html')">How to Add IS Strategy</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-IS-Strategy.html')">How to Edit IS Strategy</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Proposed-Information-Systems.html')">How to Add Proposed Information Systems</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Proposed-Information-Systems.html')">How to Edit Proposed Information Systems</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Proposed-Information-Systems.html')">How to Delete Proposed Information Systems</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Database-Required.html')">How to Add Database Required</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Database-Required.html')">How to Edit Database Required</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Database-Required.html')">How to Delete Database Required</a>
                             </ul>
 
                             <!-- ICT Projects -->
                             <a class="subitem online-help-tab3-3-subitem" onclick="content('issp_agency_focal/ICT-Projects.html')">ICT Projects<span class="fas fa-caret-down third-3"></span></a>
 
                             <ul class="online-help-tab3-3-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">How to Add Agency Mandate</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Internal-ICT-Projects.html')">How to Add Internal ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Internal-ICT-Projects.html')">How to Edit Internal ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Internal-ICT-Projects.html')">How to Delete Internal ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Resource-Requirements.html')">How to View list of Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Resource-Requirements.html')">How to Add Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Resource-Requirements.html')">How to Edit Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Resource-Requirements.html')">How to Delete Resource Requirements</a>
                             </ul>
 
                             <!-- Resource Requirements -->
