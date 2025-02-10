@@ -111,9 +111,26 @@
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Internal-ICT-Projects.html')">How to Edit Internal ICT Projects</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Internal-ICT-Projects.html')">How to Delete Internal ICT Projects</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Resource-Requirements.html')">How to View list of Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Filter-List-Resource-Requirements.html')">How to Filter list of Resource Requirements</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Resource-Requirements.html')">How to Add Resource Requirements</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Resource-Requirements.html')">How to Edit Resource Requirements</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Resource-Requirements.html')">How to Delete Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Performance-Measurement-Framework.html')">How to View list of Performance Measurement Framework</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Performance-Measurement-Framework.html')">How to Add Performance Measurement Framework</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Performance-Measurement-Framework.html')">How to Edit Performance Measurement Framework</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Performance-Measurement-Framework.html')">How to Delete Performance Measurement Framework</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Grants-In-Aid-Projects.html')">How to View list of Grants-In-Aid (GIA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Grants-In-Aid-Projects.html')">How to Add Grants-In-Aid (GIA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Grants-In-Aid-Projects.html')">How to Edit Grants-In-Aid (GIA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Grants-In-Aid-Projects.html')">How to Delete Grants-In-Aid (GIA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Cross-Agency-ICT-Projects.html')">How to View list of Cross Agency ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Cross-Agency-ICT-Projects.html')">How to Add Cross Agency ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Cross-Agency-ICT-Projects.html')">How to Edit Cross Agency ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Cross-Agency-ICT-Projects.html')">How to Delete Cross Agency ICT Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-General-Appropriations-Act-Projects.html')">How to View list of General Appropriations Act (GAA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-General-Appropriations-Act-Projects.html')">How to Add General Appropriations Act (GAA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-General-Appropriations-Act-Projects.html')">How to Edit General Appropriations Act (GAA) Projects</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-General-Appropriations-Act-Projects.html')">How to Delete General Appropriations Act (GAA) Projects</a>
                             </ul>
 
                             <!-- Resource Requirements -->
