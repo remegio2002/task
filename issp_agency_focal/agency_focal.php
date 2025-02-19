@@ -137,7 +137,15 @@
                             <a class="subitem online-help-tab3-4-subitem" onclick="content('issp_agency_focal/Resource-Requirements.html')">Resource Requirements<span class="fas fa-caret-down third-4"></span></a>
 
                             <ul class="online-help-tab3-4-sub-subitem">
-                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">How to Add Agency Mandate</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Filter-List-Office-Productivity.html')">How to Filter list of Office Productivity</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Office-Productivity-Resource-Requirements.html')">How to Add Office Productivity Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Office-Productivity-Resource-Requirements.html')">How to Edit Office Productivity Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Office-Productivity-Resource-Requirements.html')">How to Delete Office Productivity Resource Requirements</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/View-List-Continuing-Costs.html')">How to View list of Continuing Costs</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Continuing-Costs.html')">How to Add Continuing Costs</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Continuing-Costs.html')">How to Edit Continuing Costs</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Continuing-Costs.html')">How to Delete Continuing Costs</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-ICT-Organizational-Structure.html')">How to Add ICT Organizational Structure</a>
                             </ul>
                         </li>
 
