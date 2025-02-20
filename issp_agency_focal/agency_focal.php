@@ -146,6 +146,42 @@
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Continuing-Costs.html')">How to Edit Continuing Costs</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Continuing-Costs.html')">How to Delete Continuing Costs</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-ICT-Organizational-Structure.html')">How to Add ICT Organizational Structure</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-ICT-Organizational-Structure.html')">How to Edit ICT Organizational Structure</a>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </li>
+
+                <!-- Report -->
+                <li>
+                    <a class="item online-help-tab4-btn" onclick="content('issp_agency_focal/Report.html')">Report<span class="fas fa-caret-down fourth"></span></a>
+
+                    <ul class="online-help-tab4-subitem">
+                        <a class="subitem" onclick="content('issp_agency_focal/Preview-ISSP-Report.html')">How to Preview ISSP Report</a>
+                    </ul>
+                </li>
+
+                <!-- Library -->
+                <li>
+                    <a class="item online-help-tab5-btn" onclick="content('issp_agency_focal/Library.html')">Library<span class="fas fa-caret-down fifth"></span></a>
+
+                    <ul class="online-help-tab5-subitem">
+
+                        <li>
+                            <!-- Office -->
+                            <a class="subitem online-help-tab5-1-subitem" onclick="content('issp_agency_focal/Office.html')">Office<span class="fas fa-caret-down fifth-1"></span></a>
+
+                            <ul class="online-help-tab5-1-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Search-Offices.html')">How to Search Offices</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Offices.html')">How to Add Offices</a>
+                            </ul>
+
+                            <!-- User Accounts -->
+                            <a class="subitem online-help-tab5-2-subitem" onclick="content('issp_agency_focal/User-Accounts.html')">User Accounts<span class="fas fa-caret-down fifth-2"></span></a>
+
+                            <ul class="online-help-tab5-2-sub-subitem">
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/.html')">Sample</a>
                             </ul>
                         </li>
 
