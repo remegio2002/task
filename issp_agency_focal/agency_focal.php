@@ -175,6 +175,8 @@
                             <ul class="online-help-tab5-1-sub-subitem">
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Search-Offices.html')">How to Search Offices</a>
                                 <a class="subitem subitem2" onclick="content('issp_agency_focal/Add-Offices.html')">How to Add Offices</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Edit-Offices.html')">How to Edit Offices</a>
+                                <a class="subitem subitem2" onclick="content('issp_agency_focal/Delete-Offices.html')">How to Delete Offices</a>
                             </ul>
 
                             <!-- User Accounts -->
