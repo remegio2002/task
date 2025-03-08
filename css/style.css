@@ -247,3 +247,42 @@ nav ul ul {
   font-size: 14px;
   color: #737373;
 }
+
+/* Video */
+.custom-video_container{
+  position: relative;
+  top: 0;
+  height: auto;
+  margin: 1em;
+}
+.custom-video_video{
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+.custom-video_control{
+  position: absolute;
+  top: 45%;
+  left: 48%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1em;
+  font-weight: 400;
+  width: 3em;
+  height: 3em;
+  white-space: nowrap;
+  line-height: 0;
+  cursor: pointer;
+}
+video::-webkit-media-controls{
+  position: relative;
+  z-index: 1;
+}
+
+/* Ensure text is selectable */
+#div_content, .div-online-help, .div-faqs, nav ul {
+  user-select: all;
+}
