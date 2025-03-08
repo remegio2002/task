@@ -116,6 +116,13 @@ document.querySelector('.online-help-tab5-2-subitem').addEventListener('click', 
 });
 
 
+
+document.querySelector('.online-help-tab6-btn').addEventListener('click', function() {
+    document.querySelector('.online-help-tab6-subitem').classList.toggle('show');
+    document.querySelector('.sixth').classList.toggle('rotate');
+});
+
+
 // Toggle active class on nav items
 document.querySelectorAll('nav ul li').forEach(navItem => {
     navItem.addEventListener('click', function() {
