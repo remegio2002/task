@@ -4,9 +4,8 @@ content('about.html');
 function content(html_link) {
     fetch(html_link)
         .then(response => response.text())
-        .then(html => {
-            document.getElementById('div_content').innerHTML = html;
-        })
+        .then(html => {document.getElementById('div_content').innerHTML = html;})
+        .then(initializeVideoControls)
         .catch(err => console.error('Error loading content:', err));
 }
 
@@ -158,38 +157,43 @@ document.querySelectorAll('.item').forEach(item => {
 
 
 // Adding functionality to video play and pause button
-const video = document.getElementsByClassName("custom-video_video");
-let i;
-for (i = 0; i < video.length; i++) {
+function initializeVideoControls() {
 
-    video[i].addEventListener("click", function() {
-        const controls = this.nextElementSibling;
-        if (controls.innerHTML === "▶") {
-            controls.innerHTML = "| |";
-            this.play();
-        } else {
-            controls.innerHTML = "▶";
-            this.pause();
-        }
-    });
+    const video = document.getElementsByClassName("custom-video_video");
+    let i;
 
-    video[i].addEventListener("play", function() {
-        const controls = this.nextElementSibling;
-        if (!this.paused) {
-            controls.style.display = "none";
-        }
-    });
+    for (i = 0; i < video.length; i++) {
 
-    video[i].addEventListener("mouseout", function() {
-        const controls = this.nextElementSibling;
-        if (!this.paused) {
-            controls.style.display = "none";
-        }
-    });
+        video[i].addEventListener("click", function() {
+            const controls = this.nextElementSibling;
+            if (controls.innerHTML == "▶") {
+                controls.innerHTML = "| |";
+                this.play();
+            }
+            else {
+                controls.innerHTML = "▶";
+                this.pause();
+            }
+        });
 
-    video[i].addEventListener("mouseover", function() {
-        const controls = this.nextElementSibling;
-        controls.style.display = "flex";
-    });
+        video[i].addEventListener("play", function() {
+            const controls = this.nextElementSibling;
+            if (!this.paused) {
+                controls.style.display = "none";
+            }
+        });
 
+        video[i].addEventListener("mouseout", function() {
+            const controls = this.nextElementSibling;
+            if (!this.paused) {
+                controls.style.display = "none";
+            }
+        });
+
+        video[i].addEventListener("mouseover", function() {
+            const controls = this.nextElementSibling;
+            controls.style.display = "flex";
+        });
+
+    }
 }

@@ -314,7 +314,7 @@
     <div id="div_content">
         <!-- Page Content  -->
     </div>    
-</div>    
+</div>
 
 <div class="footer">
     <div class="footer-img">
