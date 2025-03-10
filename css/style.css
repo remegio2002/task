@@ -13,7 +13,7 @@
 *{
   margin: 0;
   padding: 0;
-  user-select: none;
+  user-select: auto;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
@@ -116,6 +116,7 @@ nav ul li.active li a {
 nav ul li a:hover {
   color: black;
   background: #00BBF9;
+  cursor: pointer;
 }
 nav ul li a span {
   position: absolute;
@@ -142,6 +143,7 @@ nav ul ul li {
 nav ul ul li a:hover {
   color: black;
   background:#00BBF9!important;
+  cursor: pointer;
 }
 
 .btn-online-help:hover,
@@ -156,6 +158,7 @@ nav ul ul li a:hover {
   padding: 8px 0px 8px 30px;
   background-color: #0B6687;
   margin-bottom: 2px;
+  user-select: none;
 }
 
 .leftside-tab {
@@ -280,9 +283,4 @@ nav ul ul {
 video::-webkit-media-controls{
   position: relative;
   z-index: 1;
-}
-
-/* Ensure text is selectable */
-#div_content, .div-online-help, .div-faqs, nav ul {
-  user-select: all;
 }

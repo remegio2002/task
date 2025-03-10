@@ -156,8 +156,9 @@ document.querySelectorAll('.item').forEach(item => {
 });
 
 
+
 // Adding functionality to video play and pause button
-const video=document.getElementsByClassName("custom-video_video");
+const video = document.getElementsByClassName("custom-video_video");
 let i;
 for (i = 0; i < video.length; i++) {
 
