@@ -8,12 +8,13 @@ function content(html_link) {
             document.getElementById('div_content').innerHTML = html;
         })
         .then(initializeVideoControls)
-        .then(search_links)
+        .then(search_links_keyup)
+        .then(search_links_click)
         .catch(err => console.error('Error loading content:', err));
 }
 
 // Event listener for search_key keyup event
-function search_links() {
+function search_links_keyup() {
     document.getElementById('search_key').addEventListener('keyup', function(e) {
         if (e.key == 'Enter' || e.KeyBoardEvent == 13) {
             const searchKey = document.getElementById('search_key').value;
@@ -31,6 +32,27 @@ function search_links() {
                 })
                 .catch(err => console.error('Error during search:', err));
             }
+        }
+    });
+}
+
+// Event listener for search_key click event
+function search_links_click() {
+    document.getElementById('search_icon').addEventListener('click', function() {
+        const searchKey = document.getElementById('search_key').value;
+        if (searchKey) {
+            fetch('issp_agency_focal/agency_focal_result.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                body: `search_key=${encodeURIComponent(searchKey)}`
+            })
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('div_content').innerHTML = html;
+            })
+            .catch(err => console.error('Error during search:', err));
         }
     });
 }

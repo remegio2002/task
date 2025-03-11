@@ -14,7 +14,7 @@
                 <li>
                     <div class="search_textbox">
                         <input class="search_placeholder" id="search_key" name="search_key" placeholder="Search..." type="text">
-                        <span class="fa-solid fa-magnifying-glass"></span>
+                        <span id="search_icon" class="fa-solid fa-magnifying-glass"></span>
                     </div>
                 </li>
 
