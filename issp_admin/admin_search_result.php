@@ -1,6 +1,6 @@
 <?php
 
-  $strJsonFileContents = file_get_contents("json/search.json");
+  $strJsonFileContents = file_get_contents("../json/admin_search.json");
   $arrayJSON = json_decode($strJsonFileContents, true);
   
   $input = preg_quote($_POST['search_key'], '~');
@@ -13,8 +13,6 @@
 
 <!-- Page Content  -->
 
-<link rel="stylesheet" href="css/search_result.css">
-
 <div>
 
   <h2>Search Results</h2>
@@ -22,13 +20,13 @@
 
   <br>
 
-  <table cellpadding="10" style="text-align: left;">
+  <table class="tbl_search">
     <?php
     for ($i=0; $i < count($resultKeys); $i++) { 
     ?>
-    <tr>
-      <th onclick="content('<?=$arrayJSON[$resultKeys[$i]]['target']?>')"><?=$arrayJSON[$resultKeys[$i]]['keyword'];?></th>
-    </tr>
+      <tr>
+        <th onclick="content('<?=$arrayJSON[$resultKeys[$i]]['target']?>')"><?=$arrayJSON[$resultKeys[$i]]['keyword'];?></th>
+      </tr>
     <?php
     }
     ?>
