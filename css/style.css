@@ -65,12 +65,10 @@ body {
   position: absolute;
   top: 13px;
   right: 10px;
-  cursor: pointer;
 }
 .search_textbox span:hover {
-  position: absolute;
-  top: 13px;
-  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
 }
 .search_placeholder::placeholder {
   font-size: 20px;
